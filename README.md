@@ -1,1 +1,5 @@
-This is a working draft for Mingrui's Paper Morphology-Aware Graph Reinforcement Learning for Tensegrity Robot Locomotion. Please see *Graph_based_Deep_RL_for_3TR_Locomotion.pdf* The final version will be available on arXiv soon.
+This is a working draft for Mingrui's Paper Morphology-Aware Graph Reinforcement Learning for Tensegrity Robot Locomotion. 
+
+Please see *Graph_based_Deep_RL_for_3TR_Locomotion.pdf* 
+
+The final version will be available on arXiv soon.
